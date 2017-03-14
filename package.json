@@ -1,0 +1,27 @@
+{
+  "name": "fis-postpackager-webp",
+  "version": "0.0.2",
+  "description": "convert png or jpg or jpeg file to webp and compress png file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "fis",
+    "webp"
+  ],
+  "dependencies": {
+    "webp-bin": "0.1.4",
+    "node-pngquant-native": "1.0.4",
+    "node-pngcrush": "0.3.7"
+  },
+  "author": "fenghuang",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/imfenghuang/fis-postpackager-webp.git"
+  },
+  "bugs": {
+    "url": "https://github.com/imfenghuang/fis-postpackager-webp/issues"
+  },
+  "license": "MIT"
+}
