@@ -8,7 +8,7 @@ A postpackager for fis to convert png or jpg or jpeg file to webp. And compress 
 		
 	$ npm install fis-postpackager-webp -g
 
-##useAge
+##useage
 
 	// fis-conf.js
 	fis.match('::package', {
