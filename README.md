@@ -4,11 +4,11 @@
 
 A postpackager for fis to convert png or jpg or jpeg file to webp. And compress png file.
 
-##install
+## install
 		
 	$ npm install fis-postpackager-webp -g
 
-##useage
+## useage
 
 	// fis-conf.js
 	fis.match('::package', {
@@ -24,7 +24,7 @@ A postpackager for fis to convert png or jpg or jpeg file to webp. And compress 
 	
 
  
-##reference
+## reference
 
 - [fis-optimizer-png-compressor](https://www.npmjs.com/package/fis-optimizer-png-compressor "fis-optimizer-png-compressor")
 
